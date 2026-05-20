@@ -1,0 +1,10 @@
+#!/bin/sh
+#PBS -N detest1
+#PBS -l select=1:ncpus=12:mem=48gb,walltime=11:30:00
+#PBS -M yuhao.liu@unsw.edu.au
+#PBS -m ae
+date
+cd V15
+module load matlab/R2022a
+matlab -nodisplay -nosplash -r detest1
+date
