@@ -1,0 +1,14 @@
+env1: aco 0-0.05, bco=0
+env2: aco 0-0.05, bco=0.025
+env3: aco 0-0.05, bco=0.05
+env4: aco 0, bco=0-0.05
+env5: aco 0.025, bco=0-0.05
+env6: aco 0.05, bco=0-0.05
+env7: acon 0-0.05, bcon=0
+env8: acon 0-0.05, bcon=0.025
+env9: acon 0-0.05, bcon=0.05
+env10: acon 0, bcon=0-0.05
+env11: acon 0.025, bcon=0-0.05
+env12: acon 0.05, bcon=0-0.05
+
+change1 price12+34 
